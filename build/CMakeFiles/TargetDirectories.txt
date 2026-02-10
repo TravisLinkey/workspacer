@@ -1,0 +1,3 @@
+/Users/travislinkey/Projects/cpp/workspace/workspacer/build/CMakeFiles/workspacer.dir
+/Users/travislinkey/Projects/cpp/workspace/workspacer/build/CMakeFiles/edit_cache.dir
+/Users/travislinkey/Projects/cpp/workspace/workspacer/build/CMakeFiles/rebuild_cache.dir

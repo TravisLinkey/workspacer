@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/main.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/main.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/main.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/cli/cli.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/cli/cli.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/cli/cli.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/cli/cli.cpp.o"
+},
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/io/io.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/io/io.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/io/io.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/io/io.cpp.o"
+},
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/process_launcher/process_launcher.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/process_launcher/process_launcher.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/process_launcher/process_launcher.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/process_launcher/process_launcher.cpp.o"
+},
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/filesystem/file.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/filesystem/file.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/filesystem/file.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/filesystem/file.cpp.o"
+},
+{
+  "directory": "/Users/travislinkey/Projects/cpp/workspace/workspacer/build",
+  "command": "/usr/bin/c++ -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_JSON_DYN_LINK -DBOOST_JSON_NO_LIB -I/Users/travislinkey/Projects/cpp/workspace/workspacer/src -isystem /opt/homebrew/include -std=gnu++20 -arch arm64 -o CMakeFiles/workspacer.dir/src/orchestrator/orchestrator.cpp.o -c /Users/travislinkey/Projects/cpp/workspace/workspacer/src/orchestrator/orchestrator.cpp",
+  "file": "/Users/travislinkey/Projects/cpp/workspace/workspacer/src/orchestrator/orchestrator.cpp",
+  "output": "CMakeFiles/workspacer.dir/src/orchestrator/orchestrator.cpp.o"
+}
+]

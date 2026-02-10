@@ -1,0 +1,26 @@
+{
+  "workspaces": {
+    "test": {
+      "commands": [
+        { "program": "echo", "args": ["Hello World"] },
+        { "program": "echo", "args": ["-e", "Line1\nLine2\nLine3"] }
+      ]
+    },
+    "dev": {
+      "commands": [
+        { "program": "echo", "args": ["This is the dev workspace."] },
+        { "program": "echo", "args": ["-e", "Task1\nTask2\nTask3"] }
+      ]
+    },
+    "work": {
+      "commands": [
+        { "program": "open", "args": ["-a", "Slack"], "workspace": "1", "detach": true },
+        { "program": "kitty", "args": ["-d", "~/Documents/Obsidian/Travis/obsidian/", "nvim"], "workspace": "N", "detach": true },
+        { "program": "open", "args": ["-a", "Google Chrome", "--args", "--profile-directory=Profile 1"], "workspace": "2", "detach": true },
+        { "program": "kitty", "args": ["-d", "~/Projects/ServiceCore/workspace/docket"], "workspace": "4", "detach": true },
+        { "program": "open", "args": ["-a", "Docker Desktop"], "workspace": "B", "detach": true },
+        { "program": "kitty", "args": ["-d", "~/Projects/ServiceCore/workspace/docket-platform"], "workspace": "5", "detach": true }
+      ]
+    }
+  }
+}
